@@ -1,0 +1,37 @@
+<svg id="组_226_拷贝" data-name="组 226 拷贝" xmlns="http://www.w3.org/2000/svg" width="140.5" height="140.5" viewBox="0 0 140.5 140.5">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+        fill-opacity: 0.5;
+        stroke: #00beff;
+        stroke-width: 1px;
+      }
+
+      .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        fill: #00beff;
+      }
+    </style>
+  </defs>
+  <circle id="椭圆_791_拷贝" data-name="椭圆 791 拷贝" class="cls-1" cx="70.25" cy="70.248" r="38.844"/>
+  <g id="组_227" data-name="组 227">
+    <path id="矩形_854_拷贝_10" data-name="矩形 854 拷贝 10" class="cls-2" d="M562.75,939.335a41.757,41.757,0,0,0-28.629,11.313l-19.682-19.682a69.681,69.681,0,0,1,96.621,0l-19.682,19.682A41.756,41.756,0,0,0,562.75,939.335Z" transform="translate(-492.5 -911)"/>
+    <path id="矩形_854_拷贝_10-2" data-name="矩形 854 拷贝 10" class="cls-3" d="M562.748,919.94l6.9,9.694h-13.81Z" transform="translate(-492.5 -911)"/>
+  </g>
+  <g id="组_228" data-name="组 228">
+    <path id="矩形_854_拷贝_11" data-name="矩形 854 拷贝 11" class="cls-2" d="M613.033,1029.56l-19.682-19.68a41.88,41.88,0,0,0,0-57.259l19.682-19.682A69.679,69.679,0,0,1,613.033,1029.56Z" transform="translate(-492.5 -911)"/>
+    <path id="矩形_854_拷贝_11-2" data-name="矩形 854 拷贝 11" class="cls-3" d="M614.4,988.187v-13.81l9.694,6.905Z" transform="translate(-492.5 -911)"/>
+  </g>
+  <g id="组_229" data-name="组 229">
+    <path id="矩形_854_拷贝_12" data-name="矩形 854 拷贝 12" class="cls-2" d="M562.75,1023.17a41.776,41.776,0,0,0,28.628-11.32l19.682,19.68a69.671,69.671,0,0,1-96.621,0l19.682-19.68A41.777,41.777,0,0,0,562.75,1023.17Z" transform="translate(-492.5 -911)"/>
+    <path id="矩形_854_拷贝_12-2" data-name="矩形 854 拷贝 12" class="cls-3" d="M555.778,1032.86h13.94l-6.97,9.76Z" transform="translate(-492.5 -911)"/>
+  </g>
+  <g id="组_230" data-name="组 230">
+    <path id="矩形_854_拷贝_13" data-name="矩形 854 拷贝 13" class="cls-2" d="M520.834,981.25a41.755,41.755,0,0,0,11.314,28.63l-19.682,19.68a69.681,69.681,0,0,1,0-96.621l19.682,19.682A41.758,41.758,0,0,0,520.834,981.25Z" transform="translate(-492.5 -911)"/>
+    <path id="矩形_854_拷贝_13-2" data-name="矩形 854 拷贝 13" class="cls-3" d="M511.166,974.312v13.94l-9.761-6.97Z" transform="translate(-492.5 -911)"/>
+  </g>
+</svg>

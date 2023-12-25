@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta name="renderer" content="webkit"/>
+    <meta name="force-rendering" content="webkit"/>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1"/>
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- <meta http-equiv="X-UA-Compatible" content="ie=edge"> -->
+
+    <title>kChat</title>
+    <meta name="renderer" content="webkit" />
+    <!-- 地图 -->
+    <!-- <script src="./kmap/kmap-service-main-v2.2.1.js"></script> -->
+    <!-- kchat配置文件 -->
+    <script src="./KChat.config.js"></script>
+    <!-- kchat资源包 -->
+    <script src="./KChat-v2.1.0.js"></script>
+    <style>
+        body {
+            padding: 0;
+            margin: 0;
+        }
+
+        #container {
+            width: 780px;
+            height: 540px;
+            /* margin: 50px; */
+        }
+
+        /* 点调的定制化 */
+
+        #container1 {
+            position: fixed;
+            width: 100%;
+            height: 500px;
+            display: flex;
+            z-index: 5;
+            left: 0;
+            top: 0;
+            /* background: white; */
+        }
+
+        .localContainer,
+        .remoteContainer {
+            position: relative;
+            width: 300px;
+            height: 200px;
+            background-color: black;
+        }
+
+        .test-btn {
+            font-family: Arial, Helvetica, sans-serif;
+            border: 0px solid;
+            border-radius: 4px;
+            padding: 5px 12px;
+            margin: 5px;
+            background-color: #09b;
+            color: aliceblue;
+            box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        }
+
+        .test-btn:hover {
+            background-color: #09c;
+            box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+        }
+        .chatmain{
+            position: relative;
+            background-color: #ffffff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height:calc(100vh - 50px);
+        }
+        .chat-help{
+            position: absolute;
+            left: 30px;
+            bottom: 120px;
+            padding: 2px 5px;
+            background: rgb(73, 153, 255);
+            color: #fff;
+            font-size: 14px;
+        }
+        .chatwarn{
+            color:rgb(73, 153, 255) ;
+            font-size: 14px;
+            position: absolute;
+            left: 50px;
+            bottom: 120px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="chatmain">
+        <div id="container"></div>
+    </div>
+    
+    <script>
+        var kchat = KChat('#container', {
+            //KChat实例name值，不传则系统生成123
+            rootName: 'kChat1',
+            // 自动接听
+            //autoAccept?: boolean;
+            // KChat.config.js远程配置地址，若存在，则覆盖本地配置
+            configUrl: ""
+        });
+
+        kchat.render();
+
+        function handUp() {
+            kchat.startRecord({
+                account_token: '',
+                device_id: '',
+                url: 'http://192.168.7.102/proxy/services/media/v1/record?Action=start',
+                valid_day: 1,
+                resolution: '1080P',
+                mix: 'MIX',
+                overlay_background: 0,
+                background_pic_param: {
+                    device_type: 4
+                }
+            }).subscribe(function () {
+                console.log('uccess！')
+            });
+        }
+    </script>
+</body>
+
+</html>

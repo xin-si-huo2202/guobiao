@@ -1,0 +1,10 @@
+Debug
+.vs
+.vscode
+*.zip
+*.rar
+node_modules
+dist
+.idea
+.cache
+.parcel-cache

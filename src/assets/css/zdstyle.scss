@@ -1,0 +1,37 @@
+
+:root{
+    --imgpath : 'image';
+}
+
+// 头部样式
+$header-bg-color: hsl(237, 86%, 27%);
+$header-height: 1.3rem;
+
+// tabs样式
+$zd-tabs-height: 0.74rem;
+
+
+// $title-button : url("./images/title-button.svg");
+
+// @mixin change_theme() {
+    
+//     [data-theme = 'image'] & {
+//         @import './theme.scss';
+//     }
+ 
+// }
+
+
+// $bluePaths : #{  } ;
+// if var(--imgpath == 'image'){
+
+//     $bluePaths:'image';
+
+
+// }
+
+
+
+// *{
+//     @include change_theme();
+// }

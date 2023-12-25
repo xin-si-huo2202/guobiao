@@ -1,0 +1,2932 @@
+[
+    {
+        "label": "河南",
+        "value": "河南",
+        "children": [
+            {
+                "value": "豫A",
+                "city": "郑州",
+                "province": "河南",
+                "Pcode": "HN",
+                "label": "豫A"
+            },
+            {
+                "value": "豫B",
+                "city": "开封",
+                "province": "河南",
+                "Pcode": "HN",
+                "label": "豫B"
+            },
+            {
+                "value": "豫C",
+                "city": "洛阳",
+                "province": "河南",
+                "Pcode": "HN",
+                "label": "豫C"
+            },
+            {
+                "value": "豫D",
+                "city": "平顶山",
+                "province": "河南",
+                "Pcode": "HN",
+                "label": "豫D"
+            },
+            {
+                "value": "豫E",
+                "city": "安阳",
+                "province": "河南",
+                "Pcode": "HN",
+                "label": "豫E"
+            },
+            {
+                "value": "豫F",
+                "city": "鹤壁",
+                "province": "河南",
+                "Pcode": "HN",
+                "label": "豫F"
+            },
+            {
+                "value": "豫G",
+                "city": "新乡",
+                "province": "河南",
+                "Pcode": "HN",
+                "label": "豫G"
+            },
+            {
+                "value": "豫H",
+                "city": "焦作",
+                "province": "河南",
+                "Pcode": "HN",
+                "label": "豫H"
+            },
+            {
+                "value": "豫J",
+                "city": "濮阳",
+                "province": "河南",
+                "Pcode": "HN",
+                "label": "豫J"
+            },
+            {
+                "value": "豫K",
+                "city": "许昌",
+                "province": "河南",
+                "Pcode": "HN",
+                "label": "豫K"
+            },
+            {
+                "value": "豫L",
+                "city": "漯河",
+                "province": "河南",
+                "Pcode": "HN",
+                "label": "豫L"
+            },
+            {
+                "value": "豫M",
+                "city": "三门峡",
+                "province": "河南",
+                "Pcode": "HN",
+                "label": "豫M"
+            },
+            {
+                "value": "豫N",
+                "city": "商丘",
+                "province": "河南",
+                "Pcode": "HN",
+                "label": "豫N"
+            },
+            {
+                "value": "豫P",
+                "city": "周口",
+                "province": "河南",
+                "Pcode": "HN",
+                "label": "豫P"
+            },
+            {
+                "value": "豫Q",
+                "city": "驻马店",
+                "province": "河南",
+                "Pcode": "HN",
+                "label": "豫Q"
+            },
+            {
+                "value": "豫R",
+                "city": "南阳",
+                "province": "河南",
+                "Pcode": "HN",
+                "label": "豫R"
+            },
+            {
+                "value": "豫S",
+                "city": "信阳",
+                "province": "河南",
+                "Pcode": "HN",
+                "label": "豫S"
+            },
+            {
+                "value": "豫U",
+                "city": "济源",
+                "province": "河南",
+                "Pcode": "HN",
+                "label": "豫U"
+            }
+        ]
+    },
+    {
+        "label": "河北",
+        "value": "河北",
+        "children": [
+            {
+                "value": "冀A",
+                "city": "石家庄",
+                "province": "河北",
+                "Pcode": "HB",
+                "label": "冀A"
+            },
+            {
+                "value": "冀B",
+                "city": "唐山",
+                "province": "河北",
+                "Pcode": "HB",
+                "label": "冀B"
+            },
+            {
+                "value": "冀C",
+                "city": "秦皇岛",
+                "province": "河北",
+                "Pcode": "HB",
+                "label": "冀C"
+            },
+            {
+                "value": "冀D",
+                "city": "邯郸",
+                "province": "河北",
+                "Pcode": "HB",
+                "label": "冀D"
+            },
+            {
+                "value": "冀E",
+                "city": "邢台",
+                "province": "河北",
+                "Pcode": "HB",
+                "label": "冀E"
+            },
+            {
+                "value": "冀F",
+                "city": "保定",
+                "province": "河北",
+                "Pcode": "HB",
+                "label": "冀F"
+            },
+            {
+                "value": "冀G",
+                "city": "张家口",
+                "province": "河北",
+                "Pcode": "HB",
+                "label": "冀G"
+            },
+            {
+                "value": "冀H",
+                "city": "承德",
+                "province": "河北",
+                "Pcode": "HB",
+                "label": "冀H"
+            },
+            {
+                "value": "冀J",
+                "city": "沧州",
+                "province": "河北",
+                "Pcode": "HB",
+                "label": "冀J"
+            },
+            {
+                "value": "冀R",
+                "city": "廊坊",
+                "province": "河北",
+                "Pcode": "HB",
+                "label": "冀R"
+            },
+            {
+                "value": "冀S",
+                "city": "沧州",
+                "province": "河北",
+                "Pcode": "HB",
+                "label": "冀S"
+            },
+            {
+                "value": "冀T",
+                "city": "衡水",
+                "province": "河北",
+                "Pcode": "HB",
+                "label": "冀T"
+            }
+        ]
+    },
+    {
+        "label": "辽宁",
+        "value": "辽宁",
+        "children": [
+            {
+                "value": "辽A",
+                "city": "沈阳",
+                "province": "辽宁",
+                "Pcode": "LN",
+                "label": "辽A"
+            },
+            {
+                "value": "辽B",
+                "city": "大连",
+                "province": "辽宁",
+                "Pcode": "LN",
+                "label": "辽B"
+            },
+            {
+                "value": "辽C",
+                "city": "鞍山",
+                "province": "辽宁",
+                "Pcode": "LN",
+                "label": "辽C"
+            },
+            {
+                "value": "辽D",
+                "city": "抚顺",
+                "province": "辽宁",
+                "Pcode": "LN",
+                "label": "辽D"
+            },
+            {
+                "value": "辽E",
+                "city": "本溪",
+                "province": "辽宁",
+                "Pcode": "LN",
+                "label": "辽E"
+            },
+            {
+                "value": "辽F",
+                "city": "丹东",
+                "province": "辽宁",
+                "Pcode": "LN",
+                "label": "辽F"
+            },
+            {
+                "value": "辽G",
+                "city": "锦州",
+                "province": "辽宁",
+                "Pcode": "LN",
+                "label": "辽G"
+            },
+            {
+                "value": "辽H",
+                "city": "营口",
+                "province": "辽宁",
+                "Pcode": "LN",
+                "label": "辽H"
+            },
+            {
+                "value": "辽J",
+                "city": "阜新",
+                "province": "辽宁",
+                "Pcode": "LN",
+                "label": "辽J"
+            },
+            {
+                "value": "辽K",
+                "city": "辽阳",
+                "province": "辽宁",
+                "Pcode": "LN",
+                "label": "辽K"
+            },
+            {
+                "value": "辽L",
+                "city": "盘锦",
+                "province": "辽宁",
+                "Pcode": "LN",
+                "label": "辽L"
+            },
+            {
+                "value": "辽M",
+                "city": "铁岭",
+                "province": "辽宁",
+                "Pcode": "LN",
+                "label": "辽M"
+            },
+            {
+                "value": "辽N",
+                "city": "朝阳",
+                "province": "辽宁",
+                "Pcode": "LN",
+                "label": "辽N"
+            },
+            {
+                "value": "辽P",
+                "city": "葫芦岛",
+                "province": "辽宁",
+                "Pcode": "LN",
+                "label": "辽P"
+            }
+        ]
+    },
+    {
+        "label": "安徽",
+        "value": "安徽",
+        "children": [
+            {
+                "value": "皖A",
+                "city": "合肥",
+                "province": "安徽",
+                "Pcode": "AH",
+                "label": "皖A"
+            },
+            {
+                "value": "皖B",
+                "city": "芜湖",
+                "province": "安徽",
+                "Pcode": "AH",
+                "label": "皖B"
+            },
+            {
+                "value": "皖C",
+                "city": "蚌埠",
+                "province": "安徽",
+                "Pcode": "AH",
+                "label": "皖C"
+            },
+            {
+                "value": "皖D",
+                "city": "淮南",
+                "province": "安徽",
+                "Pcode": "AH",
+                "label": "皖D"
+            },
+            {
+                "value": "皖E",
+                "city": "马鞍山",
+                "province": "安徽",
+                "Pcode": "AH",
+                "label": "皖E"
+            },
+            {
+                "value": "皖F",
+                "city": "淮北",
+                "province": "安徽",
+                "Pcode": "AH",
+                "label": "皖F"
+            },
+            {
+                "value": "皖G",
+                "city": "铜陵",
+                "province": "安徽",
+                "Pcode": "AH",
+                "label": "皖G"
+            },
+            {
+                "value": "皖H",
+                "city": "安庆",
+                "province": "安徽",
+                "Pcode": "AH",
+                "label": "皖H"
+            },
+            {
+                "value": "皖J",
+                "city": "黄山",
+                "province": "安徽",
+                "Pcode": "AH",
+                "label": "皖J"
+            },
+            {
+                "value": "皖K",
+                "city": "阜阳",
+                "province": "安徽",
+                "Pcode": "AH",
+                "label": "皖K"
+            },
+            {
+                "value": "皖L",
+                "city": "宿州",
+                "province": "安徽",
+                "Pcode": "AH",
+                "label": "皖L"
+            },
+            {
+                "value": "皖M",
+                "city": "滁州",
+                "province": "安徽",
+                "Pcode": "AH",
+                "label": "皖M"
+            },
+            {
+                "value": "皖N",
+                "city": "六安",
+                "province": "安徽",
+                "Pcode": "AH",
+                "label": "皖N"
+            },
+            {
+                "value": "皖P",
+                "city": "宣城",
+                "province": "安徽",
+                "Pcode": "AH",
+                "label": "皖P"
+            },
+            {
+                "value": "皖Q",
+                "city": "巢湖",
+                "province": "安徽",
+                "Pcode": "AH",
+                "label": "皖Q"
+            },
+            {
+                "value": "皖R",
+                "city": "池州",
+                "province": "安徽",
+                "Pcode": "AH",
+                "label": "皖R"
+            },
+            {
+                "value": "皖S",
+                "city": "亳州",
+                "province": "安徽",
+                "Pcode": "AH",
+                "label": "皖S"
+            }
+        ]
+    },
+    {
+        "label": "江苏",
+        "value": "江苏",
+        "children": [
+            {
+                "value": "苏A",
+                "city": "南京",
+                "province": "江苏",
+                "Pcode": "JS",
+                "label": "苏A"
+            },
+            {
+                "value": "苏B",
+                "city": "无锡",
+                "province": "江苏",
+                "Pcode": "JS",
+                "label": "苏B"
+            },
+            {
+                "value": "苏C",
+                "city": "徐州",
+                "province": "江苏",
+                "Pcode": "JS",
+                "label": "苏C"
+            },
+            {
+                "value": "苏D",
+                "city": "常州",
+                "province": "江苏",
+                "Pcode": "JS",
+                "label": "苏D"
+            },
+            {
+                "value": "苏E",
+                "city": "苏州",
+                "province": "江苏",
+                "Pcode": "JS",
+                "label": "苏E"
+            },
+            {
+                "value": "苏F",
+                "city": "南通",
+                "province": "江苏",
+                "Pcode": "JS",
+                "label": "苏F"
+            },
+            {
+                "value": "苏G",
+                "city": "连云港",
+                "province": "江苏",
+                "Pcode": "JS",
+                "label": "苏G"
+            },
+            {
+                "value": "苏H",
+                "city": "淮安",
+                "province": "江苏",
+                "Pcode": "JS",
+                "label": "苏H"
+            },
+            {
+                "value": "苏J",
+                "city": "盐城",
+                "province": "江苏",
+                "Pcode": "JS",
+                "label": "苏J"
+            },
+            {
+                "value": "苏K",
+                "city": "扬州",
+                "province": "江苏",
+                "Pcode": "JS",
+                "label": "苏K"
+            },
+            {
+                "value": "苏L",
+                "city": "镇江",
+                "province": "江苏",
+                "Pcode": "JS",
+                "label": "苏L"
+            },
+            {
+                "value": "苏M",
+                "city": "泰州",
+                "province": "江苏",
+                "Pcode": "JS",
+                "label": "苏M"
+            },
+            {
+                "value": "苏N",
+                "city": "宿迁",
+                "province": "江苏",
+                "Pcode": "JS",
+                "label": "苏N"
+            }
+        ]
+    },
+    {
+        "label": "湖北",
+        "value": "湖北",
+        "children": [
+            {
+                "value": "鄂A",
+                "city": "武汉",
+                "province": "湖北",
+                "Pcode": "HB",
+                "label": "鄂A"
+            },
+            {
+                "value": "鄂B",
+                "city": "黄石",
+                "province": "湖北",
+                "Pcode": "HB",
+                "label": "鄂B"
+            },
+            {
+                "value": "鄂C",
+                "city": "十堰",
+                "province": "湖北",
+                "Pcode": "HB",
+                "label": "鄂C"
+            },
+            {
+                "value": "鄂D",
+                "city": "荆州",
+                "province": "湖北",
+                "Pcode": "HB",
+                "label": "鄂D"
+            },
+            {
+                "value": "鄂E",
+                "city": "宜昌",
+                "province": "湖北",
+                "Pcode": "HB",
+                "label": "鄂E"
+            },
+            {
+                "value": "鄂F",
+                "city": "襄樊",
+                "province": "湖北",
+                "Pcode": "HB",
+                "label": "鄂F"
+            },
+            {
+                "value": "鄂G",
+                "city": "鄂州",
+                "province": "湖北",
+                "Pcode": "HB",
+                "label": "鄂G"
+            },
+            {
+                "value": "鄂H",
+                "city": "荆门 ",
+                "province": "湖北",
+                "Pcode": "HB",
+                "label": "鄂H"
+            },
+            {
+                "value": "鄂J",
+                "city": "黄冈",
+                "province": "湖北",
+                "Pcode": "HB",
+                "label": "鄂J"
+            },
+            {
+                "value": "鄂K",
+                "city": "孝感",
+                "province": "湖北",
+                "Pcode": "HB",
+                "label": "鄂K"
+            },
+            {
+                "value": "鄂L",
+                "city": "咸宁",
+                "province": "湖北",
+                "Pcode": "HB",
+                "label": "鄂L"
+            },
+            {
+                "value": "鄂M",
+                "city": "仙桃",
+                "province": "湖北",
+                "Pcode": "HB",
+                "label": "鄂M"
+            },
+            {
+                "value": "鄂N",
+                "city": "潜江",
+                "province": "湖北",
+                "Pcode": "HB",
+                "label": "鄂N"
+            },
+            {
+                "value": "鄂P",
+                "city": "神农架林区",
+                "province": "湖北",
+                "Pcode": "HB",
+                "label": "鄂P"
+            },
+            {
+                "value": "鄂Q",
+                "city": "恩施土家族苗族自治州",
+                "province": "湖北",
+                "Pcode": "HB",
+                "label": "鄂Q"
+            },
+            {
+                "value": "鄂R",
+                "city": "天门",
+                "province": "湖北",
+                "Pcode": "HB",
+                "label": "鄂R"
+            },
+            {
+                "value": "鄂S",
+                "city": "随州",
+                "province": "湖北",
+                "Pcode": "HB",
+                "label": "鄂S"
+            }
+        ]
+    },
+    {
+        "label": "山西",
+        "value": "山西",
+        "children": [
+            {
+                "value": "晋A",
+                "city": "太原",
+                "province": "山西",
+                "Pcode": "SX",
+                "label": "晋A"
+            },
+            {
+                "value": "晋B",
+                "city": "大同",
+                "province": "山西",
+                "Pcode": "SX",
+                "label": "晋B"
+            },
+            {
+                "value": "晋C",
+                "city": "阳泉",
+                "province": "山西",
+                "Pcode": "SX",
+                "label": "晋C"
+            },
+            {
+                "value": "晋D",
+                "city": "长治",
+                "province": "山西",
+                "Pcode": "SX",
+                "label": "晋D"
+            },
+            {
+                "value": "晋E",
+                "city": "晋城",
+                "province": "山西",
+                "Pcode": "SX",
+                "label": "晋E"
+            },
+            {
+                "value": "晋F",
+                "city": "朔州",
+                "province": "山西",
+                "Pcode": "SX",
+                "label": "晋F"
+            },
+            {
+                "value": "晋H",
+                "city": "忻州",
+                "province": "山西",
+                "Pcode": "SX",
+                "label": "晋H"
+            },
+            {
+                "value": "晋J",
+                "city": "吕梁地区",
+                "province": "山西",
+                "Pcode": "SX",
+                "label": "晋J"
+            },
+            {
+                "value": "晋K",
+                "city": "晋中",
+                "province": "山西",
+                "Pcode": "SX",
+                "label": "晋K"
+            },
+            {
+                "value": "晋L",
+                "city": "临汾",
+                "province": "山西",
+                "Pcode": "SX",
+                "label": "晋L"
+            },
+            {
+                "value": "晋M",
+                "city": "运城",
+                "province": "山西",
+                "Pcode": "SX",
+                "label": "晋M"
+            }
+        ]
+    },
+    {
+        "label": "吉林",
+        "value": "吉林",
+        "children": [
+            {
+                "value": "吉A",
+                "city": "长春",
+                "province": "吉林",
+                "Pcode": "JL",
+                "label": "吉A"
+            },
+            {
+                "value": "吉B",
+                "city": "吉林",
+                "province": "吉林",
+                "Pcode": "JL",
+                "label": "吉B"
+            },
+            {
+                "value": "吉C",
+                "city": "四平",
+                "province": "吉林",
+                "Pcode": "JL",
+                "label": "吉C"
+            },
+            {
+                "value": "吉D",
+                "city": "辽源",
+                "province": "吉林",
+                "Pcode": "JL",
+                "label": "吉D"
+            },
+            {
+                "value": "吉E",
+                "city": "通化",
+                "province": "吉林",
+                "Pcode": "JL",
+                "label": "吉E"
+            },
+            {
+                "value": "吉F",
+                "city": "白山",
+                "province": "吉林",
+                "Pcode": "JL",
+                "label": "吉F"
+            },
+            {
+                "value": "吉G",
+                "city": "白城",
+                "province": "吉林",
+                "Pcode": "JL",
+                "label": "吉G"
+            },
+            {
+                "value": "吉H",
+                "city": "延边朝鲜族自治州",
+                "province": "吉林",
+                "Pcode": "JL",
+                "label": "吉H"
+            },
+            {
+                "value": "吉J",
+                "city": "松原",
+                "province": "吉林",
+                "Pcode": "JL",
+                "label": "吉J"
+            },
+            {
+                "value": "吉K",
+                "city": "长白山",
+                "province": "吉林",
+                "Pcode": "JL",
+                "label": "吉K"
+            }
+        ]
+    },
+    {
+        "label": "广东",
+        "value": "广东",
+        "children": [
+            {
+                "value": "粤A",
+                "city": "广州",
+                "province": "广东",
+                "Pcode": "GD",
+                "label": "粤A"
+            },
+            {
+                "value": "粤B",
+                "city": "深圳",
+                "province": "广东",
+                "Pcode": "GD",
+                "label": "粤B"
+            },
+            {
+                "value": "粤C",
+                "city": "珠海",
+                "province": "广东",
+                "Pcode": "GD",
+                "label": "粤C"
+            },
+            {
+                "value": "粤D",
+                "city": "汕头",
+                "province": "广东",
+                "Pcode": "GD",
+                "label": "粤D"
+            },
+            {
+                "value": "粤E",
+                "city": "佛山",
+                "province": "广东",
+                "Pcode": "GD",
+                "label": "粤E"
+            },
+            {
+                "value": "粤F",
+                "city": "韶关",
+                "province": "广东",
+                "Pcode": "GD",
+                "label": "粤F"
+            },
+            {
+                "value": "粤G",
+                "city": "湛江",
+                "province": "广东",
+                "Pcode": "GD",
+                "label": "粤G"
+            },
+            {
+                "value": "粤H",
+                "city": "肇庆",
+                "province": "广东",
+                "Pcode": "GD",
+                "label": "粤H"
+            },
+            {
+                "value": "粤J",
+                "city": "江门",
+                "province": "广东",
+                "Pcode": "GD",
+                "label": "粤J"
+            },
+            {
+                "value": "粤K",
+                "city": "茂名",
+                "province": "广东",
+                "Pcode": "GD",
+                "label": "粤K"
+            },
+            {
+                "value": "粤L",
+                "city": "惠州",
+                "province": "广东",
+                "Pcode": "GD",
+                "label": "粤L"
+            },
+            {
+                "value": "粤M",
+                "city": "梅州",
+                "province": "广东",
+                "Pcode": "GD",
+                "label": "粤M"
+            },
+            {
+                "value": "粤N",
+                "city": "汕尾",
+                "province": "广东",
+                "Pcode": "GD",
+                "label": "粤N"
+            },
+            {
+                "value": "粤P",
+                "city": "河源",
+                "province": "广东",
+                "Pcode": "GD",
+                "label": "粤P"
+            },
+            {
+                "value": "粤Q",
+                "city": "阳江",
+                "province": "广东",
+                "Pcode": "GD",
+                "label": "粤Q"
+            },
+            {
+                "value": "粤R",
+                "city": "清远",
+                "province": "广东",
+                "Pcode": "GD",
+                "label": "粤R"
+            },
+            {
+                "value": "粤S",
+                "city": "东莞",
+                "province": "广东",
+                "Pcode": "GD",
+                "label": "粤S"
+            },
+            {
+                "value": "粤T",
+                "city": "中山",
+                "province": "广东",
+                "Pcode": "GD",
+                "label": "粤T"
+            },
+            {
+                "value": "粤U",
+                "city": "潮州",
+                "province": "广东",
+                "Pcode": "GD",
+                "label": "粤U"
+            },
+            {
+                "value": "粤V",
+                "city": "揭阳",
+                "province": "广东",
+                "Pcode": "GD",
+                "label": "粤V"
+            },
+            {
+                "value": "粤W",
+                "city": "云浮",
+                "province": "广东",
+                "Pcode": "GD",
+                "label": "粤W"
+            },
+            {
+                "value": "粤X",
+                "city": "顺德区",
+                "province": "广东",
+                "Pcode": "GD",
+                "label": "粤X"
+            },
+            {
+                "value": "粤Y",
+                "city": "南海区",
+                "province": "广东",
+                "Pcode": "GD",
+                "label": "粤Y"
+            },
+            {
+                "value": "粤Z",
+                "city": "港澳进入内地车辆",
+                "province": "广东",
+                "Pcode": "GD",
+                "label": "粤Z"
+            }
+        ]
+    },
+    {
+        "label": "宁夏",
+        "value": "宁夏",
+        "children": [
+            {
+                "value": "宁A",
+                "city": "银川",
+                "province": "宁夏",
+                "Pcode": "NX",
+                "label": "宁A"
+            },
+            {
+                "value": "宁B",
+                "city": "石嘴山",
+                "province": "宁夏",
+                "Pcode": "NX",
+                "label": "宁B"
+            },
+            {
+                "value": "宁C",
+                "city": "银南",
+                "province": "宁夏",
+                "Pcode": "NX",
+                "label": "宁C"
+            },
+            {
+                "value": "宁D",
+                "city": "固原",
+                "province": "宁夏",
+                "Pcode": "NX",
+                "label": "宁D"
+            },
+            {
+                "value": "宁E",
+                "city": "中卫",
+                "province": "宁夏",
+                "Pcode": "NX",
+                "label": "宁E"
+            }
+        ]
+    },
+    {
+        "label": "北京",
+        "value": "北京",
+        "children": [
+            {
+                "value": "京A",
+                "city": "北京",
+                "province": "北京",
+                "Pcode": "BJ",
+                "label": "京A"
+            },
+            {
+                "value": "京B",
+                "city": "北京",
+                "province": "北京",
+                "Pcode": "BJ",
+                "label": "京B"
+            },
+            {
+                "value": "京C",
+                "city": "北京",
+                "province": "北京",
+                "Pcode": "BJ",
+                "label": "京C"
+            },
+            {
+                "value": "京D",
+                "city": "北京",
+                "province": "北京",
+                "Pcode": "BJ",
+                "label": "京D"
+            },
+            {
+                "value": "京E",
+                "city": "北京",
+                "province": "北京",
+                "Pcode": "BJ",
+                "label": "京E"
+            },
+            {
+                "value": "京F",
+                "city": "北京",
+                "province": "北京",
+                "Pcode": "BJ",
+                "label": "京F"
+            },
+            {
+                "value": "京G",
+                "city": "北京",
+                "province": "北京",
+                "Pcode": "BJ",
+                "label": "京G"
+            },
+            {
+                "value": "京H",
+                "city": "北京",
+                "province": "北京",
+                "Pcode": "BJ",
+                "label": "京H"
+            },
+            {
+                "value": "京J",
+                "city": "北京",
+                "province": "北京",
+                "Pcode": "BJ",
+                "label": "京J"
+            },
+            {
+                "value": "京K",
+                "city": "北京",
+                "province": "北京",
+                "Pcode": "BJ",
+                "label": "京K"
+            },
+            {
+                "value": "京L",
+                "city": "北京",
+                "province": "北京",
+                "Pcode": "BJ",
+                "label": "京L"
+            },
+            {
+                "value": "京M",
+                "city": "北京",
+                "province": "北京",
+                "Pcode": "BJ",
+                "label": "京M"
+            },
+            {
+                "value": "京Y",
+                "city": "北京",
+                "province": "北京",
+                "Pcode": "BJ",
+                "label": "京Y"
+            }
+        ]
+    },
+    {
+        "label": "黑龙江",
+        "value": "黑龙江",
+        "children": [
+            {
+                "value": "黑A",
+                "city": "哈尔滨",
+                "province": "黑龙江",
+                "Pcode": "HLJ",
+                "label": "黑A"
+            },
+            {
+                "value": "黑B",
+                "city": "齐齐哈尔",
+                "province": "黑龙江",
+                "Pcode": "HLJ",
+                "label": "黑B"
+            },
+            {
+                "value": "黑C",
+                "city": "牡丹江",
+                "province": "黑龙江",
+                "Pcode": "HLJ",
+                "label": "黑C"
+            },
+            {
+                "value": "黑D",
+                "city": "佳木斯",
+                "province": "黑龙江",
+                "Pcode": "HLJ",
+                "label": "黑D"
+            },
+            {
+                "value": "黑E",
+                "city": "大庆",
+                "province": "黑龙江",
+                "Pcode": "HLJ",
+                "label": "黑E"
+            },
+            {
+                "value": "黑F",
+                "city": "伊春",
+                "province": "黑龙江",
+                "Pcode": "HLJ",
+                "label": "黑F"
+            },
+            {
+                "value": "黑G",
+                "city": "鸡西",
+                "province": "黑龙江",
+                "Pcode": "HLJ",
+                "label": "黑G"
+            },
+            {
+                "value": "黑H",
+                "city": "鹤岗",
+                "province": "黑龙江",
+                "Pcode": "HLJ",
+                "label": "黑H"
+            },
+            {
+                "value": "黑J",
+                "city": "双鸭山",
+                "province": "黑龙江",
+                "Pcode": "HLJ",
+                "label": "黑J"
+            },
+            {
+                "value": "黑K",
+                "city": "七台河",
+                "province": "黑龙江",
+                "Pcode": "HLJ",
+                "label": "黑K"
+            },
+            {
+                "value": "黑L",
+                "city": "松花江地区",
+                "province": "黑龙江",
+                "Pcode": "HLJ",
+                "label": "黑L"
+            },
+            {
+                "value": "黑M",
+                "city": "绥化",
+                "province": "黑龙江",
+                "Pcode": "HLJ",
+                "label": "黑M"
+            },
+            {
+                "value": "黑N",
+                "city": "黑河",
+                "province": "黑龙江",
+                "Pcode": "HLJ",
+                "label": "黑N"
+            },
+            {
+                "value": "黑P",
+                "city": "大兴安岭地区",
+                "province": "黑龙江",
+                "Pcode": "HLJ",
+                "label": "黑P"
+            },
+            {
+                "value": "黑R",
+                "city": "农垦系统",
+                "province": "黑龙江",
+                "Pcode": "HLJ",
+                "label": "黑R"
+            }
+        ]
+    },
+    {
+        "label": "山东",
+        "value": "山东",
+        "children": [
+            {
+                "value": "鲁A ",
+                "city": "济南",
+                "province": "山东",
+                "Pcode": "SD",
+                "label": "鲁A "
+            },
+            {
+                "value": "鲁B",
+                "city": "青岛",
+                "province": "山东",
+                "Pcode": "SD",
+                "label": "鲁B"
+            },
+            {
+                "value": "鲁C",
+                "city": "淄博",
+                "province": "山东",
+                "Pcode": "SD",
+                "label": "鲁C"
+            },
+            {
+                "value": "鲁D",
+                "city": "枣庄",
+                "province": "山东",
+                "Pcode": "SD",
+                "label": "鲁D"
+            },
+            {
+                "value": "鲁E",
+                "city": "东营",
+                "province": "山东",
+                "Pcode": "SD",
+                "label": "鲁E"
+            },
+            {
+                "value": "鲁F",
+                "city": "烟台",
+                "province": "山东",
+                "Pcode": "SD",
+                "label": "鲁F"
+            },
+            {
+                "value": "鲁G",
+                "city": "潍坊",
+                "province": "山东",
+                "Pcode": "SD",
+                "label": "鲁G"
+            },
+            {
+                "value": "鲁H",
+                "city": "济宁",
+                "province": "山东",
+                "Pcode": "SD",
+                "label": "鲁H"
+            },
+            {
+                "value": "鲁J",
+                "city": "泰安",
+                "province": "山东",
+                "Pcode": "SD",
+                "label": "鲁J"
+            },
+            {
+                "value": "鲁K",
+                "city": "威海",
+                "province": "山东",
+                "Pcode": "SD",
+                "label": "鲁K"
+            },
+            {
+                "value": "鲁L",
+                "city": "日照",
+                "province": "山东",
+                "Pcode": "SD",
+                "label": "鲁L"
+            },
+            {
+                "value": "鲁M",
+                "city": "滨州",
+                "province": "山东",
+                "Pcode": "SD",
+                "label": "鲁M"
+            },
+            {
+                "value": "鲁N",
+                "city": "德州",
+                "province": "山东",
+                "Pcode": "SD",
+                "label": "鲁N"
+            },
+            {
+                "value": "鲁P",
+                "city": "聊城",
+                "province": "山东",
+                "Pcode": "SD",
+                "label": "鲁P"
+            },
+            {
+                "value": "鲁Q",
+                "city": "临沂",
+                "province": "山东",
+                "Pcode": "SD",
+                "label": "鲁Q"
+            },
+            {
+                "value": "鲁R",
+                "city": "菏泽",
+                "province": "山东",
+                "Pcode": "SD",
+                "label": "鲁R"
+            },
+            {
+                "value": "鲁S",
+                "city": "莱芜",
+                "province": "山东",
+                "Pcode": "SD",
+                "label": "鲁S"
+            },
+            {
+                "value": "鲁U",
+                "city": "青岛增补",
+                "province": "山东",
+                "Pcode": "SD",
+                "label": "鲁U"
+            },
+            {
+                "value": "鲁V",
+                "city": "潍坊增补",
+                "province": "山东",
+                "Pcode": "SD",
+                "label": "鲁V"
+            },
+            {
+                "value": "鲁Y",
+                "city": "烟台",
+                "province": "山东",
+                "Pcode": "SD",
+                "label": "鲁Y"
+            }
+        ]
+    },
+    {
+        "label": "浙江",
+        "value": "浙江",
+        "children": [
+            {
+                "value": "浙A",
+                "city": "杭州",
+                "province": "浙江",
+                "Pcode": "ZJ",
+                "label": "浙A"
+            },
+            {
+                "value": "浙B",
+                "city": "宁波",
+                "province": "浙江",
+                "Pcode": "ZJ",
+                "label": "浙B"
+            },
+            {
+                "value": "浙C",
+                "city": "温州",
+                "province": "浙江",
+                "Pcode": "ZJ",
+                "label": "浙C"
+            },
+            {
+                "value": "浙D",
+                "city": "绍兴",
+                "province": "浙江",
+                "Pcode": "ZJ",
+                "label": "浙D"
+            },
+            {
+                "value": "浙E",
+                "city": "湖州",
+                "province": "浙江",
+                "Pcode": "ZJ",
+                "label": "浙E"
+            },
+            {
+                "value": "浙F",
+                "city": "嘉兴",
+                "province": "浙江",
+                "Pcode": "ZJ",
+                "label": "浙F"
+            },
+            {
+                "value": "浙G",
+                "city": "金华",
+                "province": "浙江",
+                "Pcode": "ZJ",
+                "label": "浙G"
+            },
+            {
+                "value": "浙H",
+                "city": "衢州",
+                "province": "浙江",
+                "Pcode": "ZJ",
+                "label": "浙H"
+            },
+            {
+                "value": "浙J",
+                "city": "台州",
+                "province": "浙江",
+                "Pcode": "ZJ",
+                "label": "浙J"
+            },
+            {
+                "value": "浙K",
+                "city": "丽水",
+                "province": "浙江",
+                "Pcode": "ZJ",
+                "label": "浙K"
+            },
+            {
+                "value": "浙L",
+                "city": "舟山",
+                "province": "浙江",
+                "Pcode": "ZJ",
+                "label": "浙L"
+            }
+        ]
+    },
+    {
+        "label": "广西",
+        "value": "广西",
+        "children": [
+            {
+                "value": "桂A",
+                "city": "南宁",
+                "province": "广西",
+                "Pcode": "GX",
+                "label": "桂A"
+            },
+            {
+                "value": "桂B",
+                "city": "柳州",
+                "province": "广西",
+                "Pcode": "GX",
+                "label": "桂B"
+            },
+            {
+                "value": "桂C",
+                "city": "桂林",
+                "province": "广西",
+                "Pcode": "GX",
+                "label": "桂C"
+            },
+            {
+                "value": "桂D",
+                "city": "梧州",
+                "province": "广西",
+                "Pcode": "GX",
+                "label": "桂D"
+            },
+            {
+                "value": "桂E",
+                "city": "北海",
+                "province": "广西",
+                "Pcode": "GX",
+                "label": "桂E"
+            },
+            {
+                "value": "桂F",
+                "city": "崇左",
+                "province": "广西",
+                "Pcode": "GX",
+                "label": "桂F"
+            },
+            {
+                "value": "桂G",
+                "city": "来宾",
+                "province": "广西",
+                "Pcode": "GX",
+                "label": "桂G"
+            },
+            {
+                "value": "桂H",
+                "city": "桂林地区",
+                "province": "广西",
+                "Pcode": "GX",
+                "label": "桂H"
+            },
+            {
+                "value": "桂J",
+                "city": "贺州",
+                "province": "广西",
+                "Pcode": "GX",
+                "label": "桂J"
+            },
+            {
+                "value": "桂K",
+                "city": "玉林",
+                "province": "广西",
+                "Pcode": "GX",
+                "label": "桂K"
+            },
+            {
+                "value": "桂L",
+                "city": "百色",
+                "province": "广西",
+                "Pcode": "GX",
+                "label": "桂L"
+            },
+            {
+                "value": "桂M",
+                "city": "河池",
+                "province": "广西",
+                "Pcode": "GX",
+                "label": "桂M"
+            },
+            {
+                "value": "桂N",
+                "city": "钦州",
+                "province": "广西",
+                "Pcode": "GX",
+                "label": "桂N"
+            },
+            {
+                "value": "桂P",
+                "city": "防城港",
+                "province": "广西",
+                "Pcode": "GX",
+                "label": "桂P"
+            },
+            {
+                "value": "桂R",
+                "city": "贵港",
+                "province": "广西",
+                "Pcode": "GX",
+                "label": "桂R"
+            }
+        ]
+    },
+    {
+        "label": "内蒙古",
+        "value": "内蒙古",
+        "children": [
+            {
+                "value": "蒙A",
+                "city": "呼和浩特",
+                "province": "内蒙古",
+                "Pcode": "NMG",
+                "label": "蒙A"
+            },
+            {
+                "value": "蒙B",
+                "city": "包头",
+                "province": "内蒙古",
+                "Pcode": "NMG",
+                "label": "蒙B"
+            },
+            {
+                "value": "蒙C",
+                "city": "乌海",
+                "province": "内蒙古",
+                "Pcode": "NMG",
+                "label": "蒙C"
+            },
+            {
+                "value": "蒙D",
+                "city": "赤峰",
+                "province": "内蒙古",
+                "Pcode": "NMG",
+                "label": "蒙D"
+            },
+            {
+                "value": "蒙E",
+                "city": "呼伦贝尔 ",
+                "province": "内蒙古",
+                "Pcode": "NMG",
+                "label": "蒙E"
+            },
+            {
+                "value": "蒙F",
+                "city": "兴安盟",
+                "province": "内蒙古",
+                "Pcode": "NMG",
+                "label": "蒙F"
+            },
+            {
+                "value": "蒙G",
+                "city": "通辽",
+                "province": "内蒙古",
+                "Pcode": "NMG",
+                "label": "蒙G"
+            },
+            {
+                "value": "蒙H",
+                "city": "锡林郭勒盟",
+                "province": "内蒙古",
+                "Pcode": "NMG",
+                "label": "蒙H"
+            },
+            {
+                "value": "蒙J",
+                "city": "乌兰察布盟",
+                "province": "内蒙古",
+                "Pcode": "NMG",
+                "label": "蒙J"
+            },
+            {
+                "value": "蒙K",
+                "city": "鄂尔多斯 ",
+                "province": "内蒙古",
+                "Pcode": "NMG",
+                "label": "蒙K"
+            },
+            {
+                "value": "蒙L",
+                "city": "巴彦淖尔盟",
+                "province": "内蒙古",
+                "Pcode": "NMG",
+                "label": "蒙L"
+            },
+            {
+                "value": "蒙M　",
+                "city": "　阿拉善盟",
+                "province": "内蒙古",
+                "Pcode": "NMG",
+                "label": "蒙M　"
+            }
+        ]
+    },
+    {
+        "label": "福建",
+        "value": "福建",
+        "children": [
+            {
+                "value": "闽A",
+                "city": "福州",
+                "province": "福建",
+                "Pcode": "FJ",
+                "label": "闽A"
+            },
+            {
+                "value": "闽B",
+                "city": "莆田",
+                "province": "福建",
+                "Pcode": "FJ",
+                "label": "闽B"
+            },
+            {
+                "value": "闽C",
+                "city": "泉州",
+                "province": "福建",
+                "Pcode": "FJ",
+                "label": "闽C"
+            },
+            {
+                "value": "闽D",
+                "city": "厦门",
+                "province": "福建",
+                "Pcode": "FJ",
+                "label": "闽D"
+            },
+            {
+                "value": "闽E",
+                "city": "漳州",
+                "province": "福建",
+                "Pcode": "FJ",
+                "label": "闽E"
+            },
+            {
+                "value": "闽F",
+                "city": "龙岩",
+                "province": "福建",
+                "Pcode": "FJ",
+                "label": "闽F"
+            },
+            {
+                "value": "闽G",
+                "city": "三明",
+                "province": "福建",
+                "Pcode": "FJ",
+                "label": "闽G"
+            },
+            {
+                "value": "闽H",
+                "city": "南平",
+                "province": "福建",
+                "Pcode": "FJ",
+                "label": "闽H"
+            },
+            {
+                "value": "闽J",
+                "city": "宁德",
+                "province": "福建",
+                "Pcode": "FJ",
+                "label": "闽J"
+            },
+            {
+                "value": "闽K",
+                "city": "直系统",
+                "province": "福建",
+                "Pcode": "FJ",
+                "label": "闽K"
+            }
+        ]
+    },
+    {
+        "label": "四川",
+        "value": "四川",
+        "children": [
+            {
+                "value": "川A",
+                "city": "成都",
+                "province": "四川",
+                "Pcode": "SC",
+                "label": "川A"
+            },
+            {
+                "value": "川B",
+                "city": "绵阳",
+                "province": "四川",
+                "Pcode": "SC",
+                "label": "川B"
+            },
+            {
+                "value": "川C",
+                "city": "自贡",
+                "province": "四川",
+                "Pcode": "SC",
+                "label": "川C"
+            },
+            {
+                "value": "川D",
+                "city": "攀枝花",
+                "province": "四川",
+                "Pcode": "SC",
+                "label": "川D"
+            },
+            {
+                "value": "川E",
+                "city": "泸州",
+                "province": "四川",
+                "Pcode": "SC",
+                "label": "川E"
+            },
+            {
+                "value": "川F",
+                "city": "德阳",
+                "province": "四川",
+                "Pcode": "SC",
+                "label": "川F"
+            },
+            {
+                "value": "川H",
+                "city": "广元",
+                "province": "四川",
+                "Pcode": "SC",
+                "label": "川H"
+            },
+            {
+                "value": "川J",
+                "city": "遂宁",
+                "province": "四川",
+                "Pcode": "SC",
+                "label": "川J"
+            },
+            {
+                "value": "川K",
+                "city": "内江",
+                "province": "四川",
+                "Pcode": "SC",
+                "label": "川K"
+            },
+            {
+                "value": "川L",
+                "city": "乐山",
+                "province": "四川",
+                "Pcode": "SC",
+                "label": "川L"
+            },
+            {
+                "value": "川M",
+                "city": "资阳",
+                "province": "四川",
+                "Pcode": "SC",
+                "label": "川M"
+            },
+            {
+                "value": "川Q",
+                "city": "宜宾",
+                "province": "四川",
+                "Pcode": "SC",
+                "label": "川Q"
+            },
+            {
+                "value": "川R",
+                "city": "南充",
+                "province": "四川",
+                "Pcode": "SC",
+                "label": "川R"
+            },
+            {
+                "value": "川S",
+                "city": "达州",
+                "province": "四川",
+                "Pcode": "SC",
+                "label": "川S"
+            },
+            {
+                "value": "川T",
+                "city": "雅安",
+                "province": "四川",
+                "Pcode": "SC",
+                "label": "川T"
+            },
+            {
+                "value": "川U",
+                "city": "阿坝藏族羌族自治州",
+                "province": "四川",
+                "Pcode": "SC",
+                "label": "川U"
+            },
+            {
+                "value": "川V",
+                "city": "甘孜藏族自治州",
+                "province": "四川",
+                "Pcode": "SC",
+                "label": "川V"
+            },
+            {
+                "value": "川W",
+                "city": "凉山彝族自治州",
+                "province": "四川",
+                "Pcode": "SC",
+                "label": "川W"
+            },
+            {
+                "value": "川X",
+                "city": "广安",
+                "province": "四川",
+                "Pcode": "SC",
+                "label": "川X"
+            },
+            {
+                "value": "川Y",
+                "city": "巴中",
+                "province": "四川",
+                "Pcode": "SC",
+                "label": "川Y"
+            },
+            {
+                "value": "川Z",
+                "city": "眉山",
+                "province": "四川",
+                "Pcode": "SC",
+                "label": "川Z"
+            }
+        ]
+    },
+    {
+        "label": "重庆",
+        "value": "重庆",
+        "children": [
+            {
+                "value": "渝A",
+                "city": "重庆区（江南）",
+                "province": "重庆",
+                "Pcode": "ZQ",
+                "label": "渝A"
+            },
+            {
+                "value": "渝B",
+                "city": "重庆区（江北）",
+                "province": "重庆",
+                "Pcode": "ZQ",
+                "label": "渝B"
+            },
+            {
+                "value": "渝C",
+                "city": "永川区",
+                "province": "重庆",
+                "Pcode": "ZQ",
+                "label": "渝C"
+            },
+            {
+                "value": "渝F",
+                "city": "万州区",
+                "province": "重庆",
+                "Pcode": "ZQ",
+                "label": "渝F"
+            },
+            {
+                "value": "渝G",
+                "city": "涪陵区",
+                "province": "重庆",
+                "Pcode": "ZQ",
+                "label": "渝G"
+            },
+            {
+                "value": "渝H",
+                "city": "黔江区",
+                "province": "重庆",
+                "Pcode": "ZQ",
+                "label": "渝H"
+            }
+        ]
+    },
+    {
+        "label": "天津",
+        "value": "天津",
+        "children": [
+            {
+                "value": "津A",
+                "city": "天津",
+                "province": "天津",
+                "Pcode": "TJ",
+                "label": "津A"
+            },
+            {
+                "value": "津B",
+                "city": "天津",
+                "province": "天津",
+                "Pcode": "TJ",
+                "label": "津B"
+            },
+            {
+                "value": "津C",
+                "city": "天津",
+                "province": "天津",
+                "Pcode": "TJ",
+                "label": "津C"
+            },
+            {
+                "value": "津D",
+                "city": "天津",
+                "province": "天津",
+                "Pcode": "TJ",
+                "label": "津D"
+            },
+            {
+                "value": "津E",
+                "city": "天津",
+                "province": "天津",
+                "Pcode": "TJ",
+                "label": "津E"
+            },
+            {
+                "value": "津F",
+                "city": "天津",
+                "province": "天津",
+                "Pcode": "TJ",
+                "label": "津F"
+            },
+            {
+                "value": "津G",
+                "city": "天津",
+                "province": "天津",
+                "Pcode": "TJ",
+                "label": "津G"
+            },
+            {
+                "value": "津H",
+                "city": "天津",
+                "province": "天津",
+                "Pcode": "TJ",
+                "label": "津H"
+            }
+        ]
+    },
+    {
+        "label": "云南",
+        "value": "云南",
+        "children": [
+            {
+                "value": "云A",
+                "city": "昆明",
+                "province": "云南",
+                "Pcode": "YN",
+                "label": "云A"
+            },
+            {
+                "value": "云A-V",
+                "city": "东川",
+                "province": "云南",
+                "Pcode": "YN",
+                "label": "云A-V"
+            },
+            {
+                "value": "云C",
+                "city": "昭通",
+                "province": "云南",
+                "Pcode": "YN",
+                "label": "云C"
+            },
+            {
+                "value": "云D",
+                "city": "曲靖",
+                "province": "云南",
+                "Pcode": "YN",
+                "label": "云D"
+            },
+            {
+                "value": "云E",
+                "city": "楚雄彝族自治州",
+                "province": "云南",
+                "Pcode": "YN",
+                "label": "云E"
+            },
+            {
+                "value": "云F",
+                "city": "玉溪",
+                "province": "云南",
+                "Pcode": "YN",
+                "label": "云F"
+            },
+            {
+                "value": "云G",
+                "city": "红河哈尼族彝族自治州",
+                "province": "云南",
+                "Pcode": "YN",
+                "label": "云G"
+            },
+            {
+                "value": "云H",
+                "city": "文山壮族苗族自治州",
+                "province": "云南",
+                "Pcode": "YN",
+                "label": "云H"
+            },
+            {
+                "value": "云J",
+                "city": "思茅",
+                "province": "云南",
+                "Pcode": "YN",
+                "label": "云J"
+            },
+            {
+                "value": "云K",
+                "city": "西双版纳傣族自治州",
+                "province": "云南",
+                "Pcode": "YN",
+                "label": "云K"
+            },
+            {
+                "value": "云L",
+                "city": "大理白族自治州",
+                "province": "云南",
+                "Pcode": "YN",
+                "label": "云L"
+            },
+            {
+                "value": "云M",
+                "city": "保山",
+                "province": "云南",
+                "Pcode": "YN",
+                "label": "云M"
+            },
+            {
+                "value": "云N",
+                "city": "德宏傣族景颇族自治州",
+                "province": "云南",
+                "Pcode": "YN",
+                "label": "云N"
+            },
+            {
+                "value": "云P",
+                "city": "丽江",
+                "province": "云南",
+                "Pcode": "YN",
+                "label": "云P"
+            },
+            {
+                "value": "云Q",
+                "city": "怒江傈僳族自治州",
+                "province": "云南",
+                "Pcode": "YN",
+                "label": "云Q"
+            },
+            {
+                "value": "云R",
+                "city": "迪庆藏族自治州",
+                "province": "云南",
+                "Pcode": "YN",
+                "label": "云R"
+            },
+            {
+                "value": "云S",
+                "city": "临沧地区",
+                "province": "云南",
+                "Pcode": "YN",
+                "label": "云S"
+            }
+        ]
+    },
+    {
+        "label": "湖南",
+        "value": "湖南",
+        "children": [
+            {
+                "value": "湘A ",
+                "city": "长沙",
+                "province": "湖南",
+                "Pcode": "HN",
+                "label": "湘A "
+            },
+            {
+                "value": "湘B",
+                "city": "株洲",
+                "province": "湖南",
+                "Pcode": "HN",
+                "label": "湘B"
+            },
+            {
+                "value": "湘C",
+                "city": "湘潭",
+                "province": "湖南",
+                "Pcode": "HN",
+                "label": "湘C"
+            },
+            {
+                "value": "湘D",
+                "city": "衡阳",
+                "province": "湖南",
+                "Pcode": "HN",
+                "label": "湘D"
+            },
+            {
+                "value": "湘E",
+                "city": "邵阳",
+                "province": "湖南",
+                "Pcode": "HN",
+                "label": "湘E"
+            },
+            {
+                "value": "湘F",
+                "city": "岳阳",
+                "province": "湖南",
+                "Pcode": "HN",
+                "label": "湘F"
+            },
+            {
+                "value": "湘G",
+                "city": "张家界",
+                "province": "湖南",
+                "Pcode": "HN",
+                "label": "湘G"
+            },
+            {
+                "value": "湘H",
+                "city": "益阳",
+                "province": "湖南",
+                "Pcode": "HN",
+                "label": "湘H"
+            },
+            {
+                "value": "湘J",
+                "city": "常德",
+                "province": "湖南",
+                "Pcode": "HN",
+                "label": "湘J"
+            },
+            {
+                "value": "湘K",
+                "city": "娄底",
+                "province": "湖南",
+                "Pcode": "HN",
+                "label": "湘K"
+            },
+            {
+                "value": "湘L",
+                "city": "郴州",
+                "province": "湖南",
+                "Pcode": "HN",
+                "label": "湘L"
+            },
+            {
+                "value": "湘M",
+                "city": "永州",
+                "province": "湖南",
+                "Pcode": "HN",
+                "label": "湘M"
+            },
+            {
+                "value": "湘N",
+                "city": "怀化",
+                "province": "湖南",
+                "Pcode": "HN",
+                "label": "湘N"
+            },
+            {
+                "value": "湘U",
+                "city": "湘西土家族苗族自治州",
+                "province": "湖南",
+                "Pcode": "HN",
+                "label": "湘U"
+            }
+        ]
+    },
+    {
+        "label": "新疆",
+        "value": "新疆",
+        "children": [
+            {
+                "value": "新A",
+                "city": "乌鲁木齐",
+                "province": "新疆",
+                "Pcode": "XJ",
+                "label": "新A"
+            },
+            {
+                "value": "新B",
+                "city": "昌吉回族自治州",
+                "province": "新疆",
+                "Pcode": "XJ",
+                "label": "新B"
+            },
+            {
+                "value": "新C",
+                "city": "石河子",
+                "province": "新疆",
+                "Pcode": "XJ",
+                "label": "新C"
+            },
+            {
+                "value": "新D",
+                "city": "奎屯",
+                "province": "新疆",
+                "Pcode": "XJ",
+                "label": "新D"
+            },
+            {
+                "value": "新E",
+                "city": "博尔塔拉蒙古自治州",
+                "province": "新疆",
+                "Pcode": "XJ",
+                "label": "新E"
+            },
+            {
+                "value": "新F",
+                "city": "伊犁哈萨克自治州直辖县",
+                "province": "新疆",
+                "Pcode": "XJ",
+                "label": "新F"
+            },
+            {
+                "value": "新G",
+                "city": "塔城",
+                "province": "新疆",
+                "Pcode": "XJ",
+                "label": "新G"
+            },
+            {
+                "value": "新H",
+                "city": "阿勒泰",
+                "province": "新疆",
+                "Pcode": "XJ",
+                "label": "新H"
+            },
+            {
+                "value": "新J",
+                "city": "克拉玛依",
+                "province": "新疆",
+                "Pcode": "XJ",
+                "label": "新J"
+            },
+            {
+                "value": "新K",
+                "city": "吐鲁番",
+                "province": "新疆",
+                "Pcode": "XJ",
+                "label": "新K"
+            },
+            {
+                "value": "新L",
+                "city": "哈密",
+                "province": "新疆",
+                "Pcode": "XJ",
+                "label": "新L"
+            },
+            {
+                "value": "新M",
+                "city": "巴音郭愣蒙古自治州",
+                "province": "新疆",
+                "Pcode": "XJ",
+                "label": "新M"
+            },
+            {
+                "value": "新N",
+                "city": "阿克苏",
+                "province": "新疆",
+                "Pcode": "XJ",
+                "label": "新N"
+            },
+            {
+                "value": "新P",
+                "city": "克孜勒苏柯尔克孜自治州",
+                "province": "新疆",
+                "Pcode": "XJ",
+                "label": "新P"
+            },
+            {
+                "value": "新Q",
+                "city": "喀什",
+                "province": "新疆",
+                "Pcode": "XJ",
+                "label": "新Q"
+            },
+            {
+                "value": "新R",
+                "city": "和田",
+                "province": "新疆",
+                "Pcode": "XJ",
+                "label": "新R"
+            }
+        ]
+    },
+    {
+        "label": "江西",
+        "value": "江西",
+        "children": [
+            {
+                "value": "赣A",
+                "city": "南昌",
+                "province": "江西",
+                "Pcode": "JX",
+                "label": "赣A"
+            },
+            {
+                "value": "赣B",
+                "city": "赣州",
+                "province": "江西",
+                "Pcode": "JX",
+                "label": "赣B"
+            },
+            {
+                "value": "赣C",
+                "city": "宜春",
+                "province": "江西",
+                "Pcode": "JX",
+                "label": "赣C"
+            },
+            {
+                "value": "赣D",
+                "city": "吉安",
+                "province": "江西",
+                "Pcode": "JX",
+                "label": "赣D"
+            },
+            {
+                "value": "赣E",
+                "city": "上饶",
+                "province": "江西",
+                "Pcode": "JX",
+                "label": "赣E"
+            },
+            {
+                "value": "赣F",
+                "city": "抚州",
+                "province": "江西",
+                "Pcode": "JX",
+                "label": "赣F"
+            },
+            {
+                "value": "赣G",
+                "city": "九江",
+                "province": "江西",
+                "Pcode": "JX",
+                "label": "赣G"
+            },
+            {
+                "value": "赣H",
+                "city": "景德镇",
+                "province": "江西",
+                "Pcode": "JX",
+                "label": "赣H"
+            },
+            {
+                "value": "赣J",
+                "city": "萍乡",
+                "province": "江西",
+                "Pcode": "JX",
+                "label": "赣J"
+            },
+            {
+                "value": "赣K",
+                "city": "新余",
+                "province": "江西",
+                "Pcode": "JX",
+                "label": "赣K"
+            },
+            {
+                "value": "赣L",
+                "city": "鹰潭",
+                "province": "江西",
+                "Pcode": "JX",
+                "label": "赣L"
+            },
+            {
+                "value": "赣M",
+                "city": "南昌,直系统",
+                "province": "江西",
+                "Pcode": "JX",
+                "label": "赣M"
+            }
+        ]
+    },
+    {
+        "label": "甘肃",
+        "value": "甘肃",
+        "children": [
+            {
+                "value": "甘A",
+                "city": "兰州",
+                "province": "甘肃",
+                "Pcode": "GS",
+                "label": "甘A"
+            },
+            {
+                "value": "甘B",
+                "city": "嘉峪关",
+                "province": "甘肃",
+                "Pcode": "GS",
+                "label": "甘B"
+            },
+            {
+                "value": "甘C",
+                "city": "金昌",
+                "province": "甘肃",
+                "Pcode": "GS",
+                "label": "甘C"
+            },
+            {
+                "value": "甘D",
+                "city": "白银",
+                "province": "甘肃",
+                "Pcode": "GS",
+                "label": "甘D"
+            },
+            {
+                "value": "甘E",
+                "city": "天水",
+                "province": "甘肃",
+                "Pcode": "GS",
+                "label": "甘E"
+            },
+            {
+                "value": "甘F",
+                "city": "酒泉",
+                "province": "甘肃",
+                "Pcode": "GS",
+                "label": "甘F"
+            },
+            {
+                "value": "甘G",
+                "city": "张掖",
+                "province": "甘肃",
+                "Pcode": "GS",
+                "label": "甘G"
+            },
+            {
+                "value": "甘H",
+                "city": "武威",
+                "province": "甘肃",
+                "Pcode": "GS",
+                "label": "甘H"
+            },
+            {
+                "value": "甘J",
+                "city": "定西",
+                "province": "甘肃",
+                "Pcode": "GS",
+                "label": "甘J"
+            },
+            {
+                "value": "甘K",
+                "city": "陇南",
+                "province": "甘肃",
+                "Pcode": "GS",
+                "label": "甘K"
+            },
+            {
+                "value": "甘L",
+                "city": "平凉",
+                "province": "甘肃",
+                "Pcode": "GS",
+                "label": "甘L"
+            },
+            {
+                "value": "甘M",
+                "city": "庆阳",
+                "province": "甘肃",
+                "Pcode": "GS",
+                "label": "甘M"
+            },
+            {
+                "value": "甘N",
+                "city": "临夏回族自治州",
+                "province": "甘肃",
+                "Pcode": "GS",
+                "label": "甘N"
+            },
+            {
+                "value": "甘P",
+                "city": "甘南藏族自治州",
+                "province": "甘肃",
+                "Pcode": "GS",
+                "label": "甘P"
+            }
+        ]
+    },
+    {
+        "label": "陕西",
+        "value": "陕西",
+        "children": [
+            {
+                "value": "陕A",
+                "city": "西安",
+                "province": "陕西",
+                "Pcode": "SX",
+                "label": "陕A"
+            },
+            {
+                "value": "陕B",
+                "city": "铜川",
+                "province": "陕西",
+                "Pcode": "SX",
+                "label": "陕B"
+            },
+            {
+                "value": "陕C",
+                "city": "宝鸡",
+                "province": "陕西",
+                "Pcode": "SX",
+                "label": "陕C"
+            },
+            {
+                "value": "陕D",
+                "city": "咸阳",
+                "province": "陕西",
+                "Pcode": "SX",
+                "label": "陕D"
+            },
+            {
+                "value": "陕E",
+                "city": "渭南",
+                "province": "陕西",
+                "Pcode": "SX",
+                "label": "陕E"
+            },
+            {
+                "value": "陕F",
+                "city": "汉中",
+                "province": "陕西",
+                "Pcode": "SX",
+                "label": "陕F"
+            },
+            {
+                "value": "陕G",
+                "city": "安康",
+                "province": "陕西",
+                "Pcode": "SX",
+                "label": "陕G"
+            },
+            {
+                "value": "陕H",
+                "city": "商洛",
+                "province": "陕西",
+                "Pcode": "SX",
+                "label": "陕H"
+            },
+            {
+                "value": "陕J",
+                "city": "延安",
+                "province": "陕西",
+                "Pcode": "SX",
+                "label": "陕J"
+            },
+            {
+                "value": "陕K",
+                "city": "榆林",
+                "province": "陕西",
+                "Pcode": "SX",
+                "label": "陕K"
+            },
+            {
+                "value": "陕V",
+                "city": "杨凌高新农业示范区",
+                "province": "陕西",
+                "Pcode": "SX",
+                "label": "陕V"
+            }
+        ]
+    },
+    {
+        "label": "贵州",
+        "value": "贵州",
+        "children": [
+            {
+                "value": "贵A",
+                "city": "贵阳",
+                "province": "贵州",
+                "Pcode": "GZ",
+                "label": "贵A"
+            },
+            {
+                "value": "贵B",
+                "city": "六盘水",
+                "province": "贵州",
+                "Pcode": "GZ",
+                "label": "贵B"
+            },
+            {
+                "value": "贵C",
+                "city": "遵义",
+                "province": "贵州",
+                "Pcode": "GZ",
+                "label": "贵C"
+            },
+            {
+                "value": "贵D",
+                "city": "铜仁",
+                "province": "贵州",
+                "Pcode": "GZ",
+                "label": "贵D"
+            },
+            {
+                "value": "贵E",
+                "city": "黔西南布依族苗族自治州",
+                "province": "贵州",
+                "Pcode": "GZ",
+                "label": "贵E"
+            },
+            {
+                "value": "贵F",
+                "city": "毕节",
+                "province": "贵州",
+                "Pcode": "GZ",
+                "label": "贵F"
+            },
+            {
+                "value": "贵G",
+                "city": "安顺",
+                "province": "贵州",
+                "Pcode": "GZ",
+                "label": "贵G"
+            },
+            {
+                "value": "贵H",
+                "city": "黔东南苗族侗族自治州",
+                "province": "贵州",
+                "Pcode": "GZ",
+                "label": "贵H"
+            },
+            {
+                "value": "贵J",
+                "city": "黔南布依族苗族自治州",
+                "province": "贵州",
+                "Pcode": "GZ",
+                "label": "贵J"
+            }
+        ]
+    },
+    {
+        "label": "青海",
+        "value": "青海",
+        "children": [
+            {
+                "value": "青A",
+                "city": "西宁",
+                "province": "青海",
+                "Pcode": "QH",
+                "label": "青A"
+            },
+            {
+                "value": "青B",
+                "city": "海东",
+                "province": "青海",
+                "Pcode": "QH",
+                "label": "青B"
+            },
+            {
+                "value": "青C",
+                "city": "海北藏族自治州",
+                "province": "青海",
+                "Pcode": "QH",
+                "label": "青C"
+            },
+            {
+                "value": "青D",
+                "city": "黄南藏族自治州",
+                "province": "青海",
+                "Pcode": "QH",
+                "label": "青D"
+            },
+            {
+                "value": "青E",
+                "city": "藏族自治州",
+                "province": "青海",
+                "Pcode": "QH",
+                "label": "青E"
+            },
+            {
+                "value": "青F",
+                "city": "果洛藏族自治州",
+                "province": "青海",
+                "Pcode": "QH",
+                "label": "青F"
+            },
+            {
+                "value": "青G",
+                "city": "玉树藏族自治州",
+                "province": "青海",
+                "Pcode": "QH",
+                "label": "青G"
+            },
+            {
+                "value": "青H",
+                "city": "海西蒙古族藏族自治州",
+                "province": "青海",
+                "Pcode": "QH",
+                "label": "青H"
+            }
+        ]
+    },
+    {
+        "label": "西藏",
+        "value": "西藏",
+        "children": [
+            {
+                "value": "藏A",
+                "city": "拉萨",
+                "province": "西藏",
+                "Pcode": "XC",
+                "label": "藏A"
+            },
+            {
+                "value": "藏B",
+                "city": "昌都地区",
+                "province": "西藏",
+                "Pcode": "XC",
+                "label": "藏B"
+            },
+            {
+                "value": "藏C",
+                "city": "山南地区",
+                "province": "西藏",
+                "Pcode": "XC",
+                "label": "藏C"
+            },
+            {
+                "value": "藏D",
+                "city": "日喀则地区",
+                "province": "西藏",
+                "Pcode": "XC",
+                "label": "藏D"
+            },
+            {
+                "value": "藏E",
+                "city": "那曲地区",
+                "province": "西藏",
+                "Pcode": "XC",
+                "label": "藏E"
+            },
+            {
+                "value": "藏F",
+                "city": "阿里地区",
+                "province": "西藏",
+                "Pcode": "XC",
+                "label": "藏F"
+            },
+            {
+                "value": "藏G",
+                "city": "林芝地区",
+                "province": "西藏",
+                "Pcode": "XC",
+                "label": "藏G"
+            },
+            {
+                "value": "藏H",
+                "city": "天全县车辆管理所",
+                "province": "西藏",
+                "Pcode": "XC",
+                "label": "藏H"
+            },
+            {
+                "value": "藏J",
+                "city": "格尔木车辆管理所",
+                "province": "西藏",
+                "Pcode": "XC",
+                "label": "藏J"
+            }
+        ]
+    },
+    {
+        "label": "海南",
+        "value": "海南",
+        "children": [
+            {
+                "value": "琼A",
+                "city": "海口",
+                "province": "海南",
+                "Pcode": "HN",
+                "label": "琼A"
+            },
+            {
+                "value": "琼B",
+                "city": "三亚",
+                "province": "海南",
+                "Pcode": "HN",
+                "label": "琼B"
+            },
+            {
+                "value": "琼C",
+                "city": "琼海",
+                "province": "海南",
+                "Pcode": "HN",
+                "label": "琼C"
+            },
+            {
+                "value": "琼D",
+                "city": "五指山",
+                "province": "海南",
+                "Pcode": "HN",
+                "label": "琼D"
+            },
+            {
+                "value": "琼E",
+                "city": "洋浦开发区",
+                "province": "海南",
+                "Pcode": "HN",
+                "label": "琼E"
+            }
+        ]
+    },
+    {
+        "label": "上海",
+        "value": "上海",
+        "children": [
+            {
+                "value": "沪A",
+                "city": "上海",
+                "province": "上海",
+                "Pcode": "SH",
+                "label": "沪A"
+            },
+            {
+                "value": "沪B",
+                "city": "上海",
+                "province": "上海",
+                "Pcode": "SH",
+                "label": "沪B"
+            },
+            {
+                "value": "沪C",
+                "city": "上海",
+                "province": "上海",
+                "Pcode": "SH",
+                "label": "沪C"
+            },
+            {
+                "value": "沪D",
+                "city": "上海",
+                "province": "上海",
+                "Pcode": "SH",
+                "label": "沪D"
+            },
+            {
+                "value": "沪R",
+                "city": "崇明、长兴、横沙",
+                "province": "上海",
+                "Pcode": "SH",
+                "label": "沪R"
+            }
+        ]
+    }
+]

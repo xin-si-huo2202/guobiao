@@ -1,0 +1,22 @@
+<svg id="组_227" data-name="组 227" xmlns="http://www.w3.org/2000/svg" width="97.624" height="40.156" viewBox="0 0 97.624 40.156">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00beff;
+        fill-opacity: 0.8;
+        stroke: #00beff;
+        stroke-width: 1px;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="矩形_854_拷贝_10" data-name="矩形 854 拷贝 10" class="cls-1" d="M562.75,939.335a41.757,41.757,0,0,0-28.629,11.313l-19.682-19.682a69.681,69.681,0,0,1,96.621,0l-19.682,19.682A41.756,41.756,0,0,0,562.75,939.335Z" transform="translate(-513.938 -911)"/>
+  <path id="矩形_854_拷贝_10-2" data-name="矩形 854 拷贝 10" class="cls-2" d="M562.748,919.94l6.9,9.694h-13.81Z" transform="translate(-513.938 -911)"/>
+</svg>

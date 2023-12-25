@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+  <title>智慧车辆</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <meta charset="utf-8">
+
+  <link rel="icon" href="/police-car-icon.png">
+
+  <link rel="stylesheet" href="/DrawingManager/DrawingManager_min.css" />
+
+
+
+  <style>
+    .BMap_cpyCtrl {
+      display: none;
+    }
+
+    .anchorBL {
+      display: none;
+    }
+
+    body .demo-class {
+      display: none;
+    }
+
+    /* body .demo-class iframe{
+   
+        height: 620px!important;
+      } */
+    /* body .demo-class .layui-layer-title{
+        display: none;
+      } */
+
+    body .demo-class .layui-layer-max {
+      display: none;
+    }
+
+    /* body .demo-class .layui-layer-title{background:#c00; color:#fff; border: none;}
+      body .demo-class .layui-layer-btn{border-top:1px solid #E9E7E7}
+      body .demo-class .layui-layer-btn a{background:#333;}
+      body .demo-class .layui-layer-btn .layui-layer-btn1{background:#999;} */
+  </style>
+  <script src="/jessibuca.js"></script>
+
+</head>
+
+<body>
+  <noscript>
+    <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled.
+        Please enable it to continue.</strong>
+  </noscript>
+  <div id="app"></div>
+  <!-- built files will be auto injected -->
+</body>
+<script type="text/javascript" src="/jquery1.11.min.js?v=67"></script>
+
+<!--<script src="/jus/demo/public/index.js"></script>-->
+
+
+<!-- X -->
+<!-- <script type="text/javascript" src="http://41.206.1.31:2020/map3.0_init.js"></script>
+  <script type="text/javascript" src="http://41.206.1.31:2020/map3.0.js"></script>
+  <script type="text/javascript" src="http://41.206.1.31:2020/Heatmap_min.js"></script> -->
+
+<!-- X  -->
+<!-- <script type="text/javascript" src="http://41.209.9.213:2020/map3.0_init.js"></script>
+  <script type="text/javascript" src="http://41.209.9.213:2020/map3.0.js"></script>
+  <script type="text/javascript" src="http://41.209.9.213:2020/Heatmap_min.js"></script> -->
+
+<!-- X  -->
+<!-- <script type="text/javascript" src="http://41.204.238.177:2020/map3.0_init.js"></script>
+<script type="text/javascript" src="http://41.204.238.177:2020/map3.0.js"></script>
+<script type="text/javascript" src="http://41.204.238.177:2020/Heatmap_min.js"></script> -->
+
+
+<!-- X  -->
+<!-- <script type="text/javascript" src="http://41.210.0.123:2020/map3.0_init.js"></script>
+  <script type="text/javascript" src="http://41.210.0.123:2020/map3.0.js"></script>
+  <script type="text/javascript" src="http://41.210.0.123:2020/Heatmap_min.js"></script> -->
+
+<!-- X -->
+<!-- <script type="text/javascript" src="http://41.208.9.226:2020/map3.0_init.js"></script>
+  <script type="text/javascript" src="http://41.208.9.226:2020/map3.0.js"></script>
+  <script type="text/javascript" src="http://41.208.9.226:2020/Heatmap_min.js"></script> -->
+
+<!-- X 特警队 -->
+<!--<script type="text/javascript" src="http://41.211.252.154:2020/map3.0_init.js"></script>
+<script type="text/javascript" src="http://41.211.252.154:2020/map3.0.js"></script>
+<script type="text/javascript" src="http://41.211.252.154:2020/Heatmap_min.js"></script>-->
+
+<!-- X -->
+<!-- <script type="text/javascript" src="http://41.201.0.218:2020/map3.0_init.js"></script>
+<script type="text/javascript" src="http://41.201.0.218:2020/map3.0.js"></script>
+<script type="text/javascript" src="http://41.201.0.218:2020/Heatmap_min.js"></script> -->
+
+<!-- X  -->
+<!-- <script type="text/javascript" src="http://41.205.32.246:2020/map3.0_init.js"></script>
+  <script type="text/javascript" src="http://41.205.32.246:2020/map3.0.js"></script>
+  <script type="text/javascript" src="http://41.205.32.246:2020/Heatmap_min.js"></script> -->
+
+<!-- 市局地图 -->
+<!--<script type="text/javascript" src="http://41.211.252.150:2020/map3.0_init.js"></script>
+<script type="text/javascript" src="http://41.211.252.150:2020/map3.0.js"></script>
+<script type="text/javascript" src="http://41.211.252.150:2020/Heatmap_min.js"></script>-->
+
+
+<!-- X -->
+<!--<script type="text/javascript" src="/map/map3.0_init.js"></script>
+<script type="text/javascript" src="/map/map3.0.js"></script>-->
+
+
+<!-- 服务器Heatmap_min不好使 -->
+<!--<script type="text/javascript" src="/map/Heatmap_min.js"></script>-->
+<script src="/Heatmap_min.js"></script>
+
+
+<script type="text/javascript" src="http://api.map.baidu.com/api?v=3.0&ak=KI43DB4ArqFa3DF4UpBpxzGQLD2vG90S"></script>
+
+
+<!--<script type="text/javascript" src="http://api.map.baidu.com/library/Heatmap/2.0/src/Heatmap_min.js"></script>-->
+
+<!-- 引入百度地图轨迹动画库=====是基于最近GL版本的，我们之前是的是3.0 -->
+<!--<script type="text/javascript"
+  src="http://api.map.baidu.com/api?v=1.0&type=webgl&ak=KI43DB4ArqFa3DF4UpBpxzGQLD2vG90S"></script>-->
+<script type="text/javascript" src="/TrackAnimation.min.js"></script>
+<script type="text/javascript" src="/TrackAnimation_min.js"></script>
+<!-- 引入百度辅助工具BMapGLLib -->
+<!--<link href="//mapopen.cdn.bcebos.com/github/BMapGLLib/DrawingManager/src/DrawingManager.min.css" rel="stylesheet">
+<script type="text/javascript"
+  src="//mapopen.cdn.bcebos.com/github/BMapGLLib/DrawingManager/src/DrawingManager.min.js"></script>-->
+<!-- 引入百度BMapGLLib库中的路书 -->
+<script type="text/javascript" src="/LuShu_min.js"></script>
+
+<!-- 引入百度地图库 -->
+<!--<script type="text/javascript"
+  src="http://api.map.baidu.com/api?type=webgl&v=1.0&ak=KI43DB4ArqFa3DF4UpBpxzGQLD2vG90S"></script>
+<link href="http://mapopen.cdn.bcebos.com/github/BMapGLLib/DrawingManager/src/DrawingManager.min.css" rel="stylesheet">
+<script type="text/javascript"
+  src="http://mapopen.cdn.bcebos.com/github/BMapGLLib/DrawingManager/src/DrawingManager.min.js"></script>-->
+
+
+
+
+
+<script src="/layui/layui.js"></script>
+
+<script>
+
+  function getQueryVariable(variable) {
+    var query = window.location.search.substring(1);
+    var vars = query.split("&");
+    for (var i = 0; i < vars.length; i++) {
+      var pair = vars[i].split("=");
+      if (pair[0] == variable) { return pair[1]; }
+    }
+    return (false);
+  }
+
+  var isquyu = getQueryVariable('isquyu')
+
+  if (isquyu) {
+    $('body').append('<script type="text/javascript" src="/DrawingManager/DrawingManager_min2.js"><\/script>')
+  } else {
+    $('body').append('<script type="text/javascript" src="/DrawingManager/DrawingManager_min.js"><\/script>')
+
+
+    setTimeout(() => {
+      $('.BMapLib_last').hover(function () {
+
+        $(this).css('background-position', '-453px -52px')
+      }, function () {
+        $(this).css('background-position', '-453px 0px')
+      })
+    }, 4000)
+  } 
+</script>
+
+
+
+
+<!-- <script src="//cdn.jsdelivr.net/npm/xgplayer/browser/index.js" charset="utf-8"></script>
+  <script src="//cdn.jsdelivr.net/npm/xgplayer-hls.js/browser/index.js" charset="utf-8"></script> -->
+
+<script src="/broswer.js" charset="utf-8"></script>
+<script src="/xghls.js" charset="utf-8"></script>
+
+
+<!--三个必要的js文件引入-->
+
+<script src="/playback/demo/jsencrypt.min.js"></script>
+<script src="/playback/demo/jsWebControl-1.0.0.min.js"></script>
+
+<script>
+
+
+
+
+
+
+
+</script>
+
+
+</html>
